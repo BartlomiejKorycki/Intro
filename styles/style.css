@@ -41,16 +41,17 @@ section .link {
     width: 200px;
     border: 2px solid goldenrod;
     border-radius: 7px;
-    box-shadow: 5px 10px 10px grey;
     padding-bottom: 7px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
 }
 button {
     background-color: white;
     border: none;
-    cursor: pointer;
 }
-.button:hover {
-    background-color: green;
+.link:hover {
+    box-shadow: 5px 10px 10px grey;
 }
 .copyright {
     text-align: center;
