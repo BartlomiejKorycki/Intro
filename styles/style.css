@@ -57,3 +57,5 @@ button {
     text-align: center;
     background-image: url(topography.png);
 }
+@media screen and (max-width: 730px) {
+}
