@@ -13,6 +13,7 @@ const scene = new ScrollMagic.Scene({
     triggerHook: 0
 })
 
+    //.addIndicators() --> triggers
     .setPin(intro)
     .addTo(controller);
 //TEXT ANIMATIN
