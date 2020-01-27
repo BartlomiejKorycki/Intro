@@ -13,7 +13,7 @@ and
 
 ## Description
 
-While I was learned html, css and JS, I created a page where you can scroll through a movie and also webpage. The intention was to create an intro page for my personal website.
+While I have learned html, css and JS, I created a page where you can scroll through a movie and also webpage. The intention was to create an intro page for my personal website.
 
 
 ## Website prewiev
